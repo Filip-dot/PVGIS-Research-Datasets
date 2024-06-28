@@ -1,0 +1,7 @@
+measurements - dataset containing on-site measurements
+
+dataset_actual - dataset containing actual measurements synchronized with meteorological data
+
+dataset_pred - dataset containing only meteorological data needed to predict actual values
+
+datasetsfs - dataset containing PVGIS calculated data (2005 - 2017) synchronized with meteorological data  
